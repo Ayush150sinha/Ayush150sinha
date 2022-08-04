@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ayush150sinha
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Coding with C,C++,Python
+- 🌱 I’m currently learning Coding with C,C++,Python, Javascript, Reactjs , Nodejs
+
 - 💞️ Looking forward to start my professional career as a Software Engineer
 
 -🤓 Currently learning Full Stack Development
