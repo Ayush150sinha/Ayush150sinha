@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush150sinha
+- 👋 Hi, I’m Ayush Sinha
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Coding with C,C++,Python, Javascript, Reactjs , Nodejs
 
